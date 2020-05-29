@@ -1,2 +1,5 @@
-# prepare-kali
-Prepares Kali Linux with a few common tools.
+# Prepare Kali
+Preparing Kali Linux with a few useful tools.
+
+## Terminator
+This installs Terminator.
