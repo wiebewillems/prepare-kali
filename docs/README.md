@@ -1,4 +1,4 @@
-_Overview of my projects on [my personal GitHub page](https://wiebewillems.github.io)_
+_Overview of my projects can be found on [my personal GitHub page](https://wiebewillems.github.io)_
 
 # Prepare Kali
 Preparing Kali Linux with a few useful tools.
